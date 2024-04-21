@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/KOUSHIK-GARA/portfolio/static/css/main.da2e2d4b.css",
+    "main.css": "/KOUSHIK-GARA/portfolio/static/css/main.71e1ded5.css",
     "main.js": "/KOUSHIK-GARA/portfolio/static/js/main.e6aa58f3.js",
     "static/css/990.c6a7ee28.chunk.css": "/KOUSHIK-GARA/portfolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.cbb80e7c.chunk.js": "/KOUSHIK-GARA/portfolio/static/js/990.cbb80e7c.chunk.js",
@@ -19,14 +19,14 @@
     "static/media/saayaHealthLogo.webp": "/KOUSHIK-GARA/portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/KOUSHIK-GARA/portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/KOUSHIK-GARA/portfolio/index.html",
-    "main.da2e2d4b.css.map": "/KOUSHIK-GARA/portfolio/static/css/main.da2e2d4b.css.map",
+    "main.71e1ded5.css.map": "/KOUSHIK-GARA/portfolio/static/css/main.71e1ded5.css.map",
     "main.e6aa58f3.js.map": "/KOUSHIK-GARA/portfolio/static/js/main.e6aa58f3.js.map",
     "990.c6a7ee28.chunk.css.map": "/KOUSHIK-GARA/portfolio/static/css/990.c6a7ee28.chunk.css.map",
     "990.cbb80e7c.chunk.js.map": "/KOUSHIK-GARA/portfolio/static/js/990.cbb80e7c.chunk.js.map",
     "453.1407b060.chunk.js.map": "/KOUSHIK-GARA/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da2e2d4b.css",
+    "static/css/main.71e1ded5.css",
     "static/js/main.e6aa58f3.js"
   ]
 }
