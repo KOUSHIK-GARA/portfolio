@@ -53,36 +53,41 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
+    // {
+    //   skillName: "Html",
+    //   fontAwesomeClassname: "fab fa-html5"
+    // },
+    // {
+    //   skillName: "Bootstrap",
+    //   fontAwesomeClassname: "fab fa-bootstrap"
+    // },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "Angular",
+      fontAwesomeClassname: "fab fa-angular"
+    },
+    {
+      skillName: "React",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
+      skillName: "Nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "java",
+      skillName: "Java",
       fontAwesomeClassname: "fab fa-java"
     },
     {
-      skillName: "docker",
+      skillName: "Mongo DB",
+      fontAwesomeClassname: "fas fa-database"
+    },
+
+    {
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
