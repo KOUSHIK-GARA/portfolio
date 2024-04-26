@@ -160,9 +160,9 @@ const workExperiences = {
       company: "Xarvis Systems Pvt Ltd.",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "June 2021 – Aug 2021",
-      desc: "Smart Brain -  This is a webapp created using  using clarifai api. It allows a user to register, sign-in and upload images to detect faces. The user enters an URL of the image and the app loads it with faces detected..",
+      desc: "Xarv Brain -  This is a webapp created using  Developed the SignUp, Login and Logout pages using React, MongoDB, Express, also Worked on making the home page for a mockup website for availing subscriptions to the various services offered by the company.",
       descBullets: [
-        "Tech Stack used : React, Bootstrap, Mongo DB"
+        "Tech Stack used : React, Express, Mongo DB"
        ]
     }
   ]
