@@ -159,7 +159,7 @@ const workExperiences = {
        ]
     },
     {
-      role: "Frontend Intern",
+      role: "Software Intern",
       company: "Xarvis Systems Pvt Ltd.",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "June 2021 – Aug 2021",
