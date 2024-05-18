@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and  applications with JavaScript / Reactjs / Nodejs / Angular /Java and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1mXauBY0GHkjpwsghB6jpR7JKi358gsNY/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -139,10 +139,12 @@ const workExperiences = {
       company: "Biz2Credit Pvt Ltd.",
       companylogo: require("./assets/images/Biz2Credit.png"),
       date: "July 2023 – Present",
-      desc: "Meta Service Ecosystem : An ecosystem of meta data where a micro service caters the needs of different integrated systems across the organization",
+      desc: "",
       descBullets: [
-       "Involved Majorily in the end to end development of Rule Engine Application and microservices",
-       "Tech Stack used : Angular, JAVA, Mongo DB"
+        "Spearheaded the UI development of a dynamic Frontend Web application for the Rule Engine micro service.",
+        "Engineered an intuitive User Interface for a Parsing Tool, enabling swift extraction of essential details from bank statement PDFs", 
+        "Innovated a user-friendly interface for the Biz2x chatbot, enabling users to effortlessly engage with the  platform in Arabic",
+        "Revolutionised the search functionality by implementing a high-speed search engine. Utilised advanced optimisation techniques such as tries"
       ]
     },
     {
@@ -150,9 +152,10 @@ const workExperiences = {
       company: "Biz2Credit Pvt Ltd.",
       companylogo: require("./assets/images/companylogo.png"),
       date: "July 2022 – May 2023",
-      desc: "The Project was about to build a microservices that can cater multiple needs to various existing services",
+      desc: ``,
       descBullets: [
-        "Tech Stack used : JAVA, Mongo DB"
+        "Initiated the development of a robust Meta Service Ecosystem, serving as a centralised repository of metadata to fulfil the diverse needs of integrated systems across the organisation",
+        "Built and implemented the Rules Engine micro service, responsible for processing a wide array of attributes and executing corresponding automations"
        ]
     },
     {
@@ -160,9 +163,9 @@ const workExperiences = {
       company: "Xarvis Systems Pvt Ltd.",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "June 2021 – Aug 2021",
-      desc: "Xarv Brain -  This is a webapp created using  Developed the SignUp, Login and Logout pages using React, MongoDB, Express, also Worked on making the home page for a mockup website for availing subscriptions to the various services offered by the company.",
+      desc: "",
       descBullets: [
-        "Tech Stack used : React, Express, Mongo DB"
+        "Developed the SignUp, Login, and Logout pages utilizing Node.js, MongoDB, Express, and JWT for robust user authentication. Resulted in a seamless and secure authentication process, enhancing user experience and system security"
        ]
     }
   ]
@@ -219,51 +222,39 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "xTech Hackathon",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Runner up in xTech Hackathon organised by Biz2Credit, where as a team we developed a tax statement parser which parses the US tax statements",
+      image: require("./assets/images/companylogo.png"),
+      imageAlt: "Biz2x Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Functional Award",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Recipient of the Functional Award in Innovations Team at Biz2Credit. Recognized for continuous learning and contributing positively to team success, leading to innovative problem solving and software development.",
+      image: require("./assets/images/Biz2Credit.png"),
+      imageAlt: "Biz2credit",
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "Certification",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Student Expert Certification",
+      subtitle: "Postman API Fundamentals Student Expert Certification",
+      image: require("./assets/images/postman-icon.png"),
+      imageAlt: "Postman",
       footerLink: [
         {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
       ]
     }
   ],
