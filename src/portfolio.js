@@ -224,7 +224,7 @@ const achievementSection = {
     {
       title: "xTech Hackathon",
       subtitle:
-        "Runner up in xTech Hackathon organised by Biz2Credit, where as a team we developed a tax statement parser which parses the US tax statements",
+        "Runner-up in xTech Hackathon, where as a team we developed  a parser which parses the US Government Tax Statements. We created a smart and extendable parser that identifies the type of tax statement and extracts the information accordingly. This parser resulted in  extraction of  important data from various types of tax statements with complete accuracy and validation",
       image: require("./assets/images/companylogo.png"),
       imageAlt: "Biz2x Logo",
       footerLink: [
