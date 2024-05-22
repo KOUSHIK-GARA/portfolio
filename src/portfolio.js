@@ -230,7 +230,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1kdo_LaVSGcq86JFe3-N5zk83onUKL4uk/view?usp=sharing"
         },
       ]
     },
@@ -243,7 +243,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1KtnDZ1EbsxIMpDrvXn9CL2GjH1DqKaK5/view?usp=sharing"
         }
       ]
     },
