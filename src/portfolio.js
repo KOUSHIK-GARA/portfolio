@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and  applications with JavaScript / Reactjs / Nodejs / Angular /Java and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/12D20rD_Ir559Smv9VhaxW_a9Yr9idWfm/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/12D20rD_Ir559Smv9VhaxW_a9Yr9idWfm/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -230,7 +230,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/1kdo_LaVSGcq86JFe3-N5zk83onUKL4uk/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1bd9MRYy5WWNfdNRP4UJrruHsFQOPIXb0/view?usp=sharing"
         },
       ]
     },
