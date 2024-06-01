@@ -224,7 +224,7 @@ const achievementSection = {
     {
       title: "xTech Hackathon",
       subtitle:
-        "Runner-up in xTech Hackathon, where as a team we developed  a parser which parses the US Government Tax Statements. We created a smart and extendable parser that identifies the type of tax statement and extracts the information accordingly. This parser resulted in  extraction of  important data from various types of tax statements with complete accuracy and validation",
+        "Runner-up in xTech Hackathon, where as a team we developed  a parser which parses the US Government Tax Statements.",
       image: require("./assets/images/companylogo.png"),
       imageAlt: "Biz2x Logo",
       footerLink: [
@@ -237,7 +237,7 @@ const achievementSection = {
     {
       title: "Functional Award",
       subtitle:
-        "Recipient of the Functional Award in Innovations Team at Biz2Credit. Recognized for continuous learning and contributing positively to team success, leading to innovative problem solving and software development.",
+        "DEC 2023",
       image: require("./assets/images/Biz2Credit.png"),
       imageAlt: "Biz2credit",
       footerLink: [
@@ -250,7 +250,7 @@ const achievementSection = {
     {
       title: "Functional Award",
       subtitle:
-        "Recipient of the Functional Award in Innovations Team at Biz2Credit. Recognized for continuous learning and contributing positively to team success, leading to innovative problem solving and software development.",
+        "May 2024",
       image: require("./assets/images/Biz2Credit.png"),
       imageAlt: "Biz2credit",
       footerLink: [
