@@ -247,6 +247,19 @@ const achievementSection = {
         }
       ]
     },
+    {
+      title: "Functional Award",
+      subtitle:
+        "Recipient of the Functional Award in Innovations Team at Biz2Credit. Recognized for continuous learning and contributing positively to team success, leading to innovative problem solving and software development.",
+      image: require("./assets/images/Biz2Credit.png"),
+      imageAlt: "Biz2credit",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1nIA1AMArqjFVhH6wW-1P3OppFp74QTg6/view?usp=sharing"
+        }
+      ]
+    },
 
     {
       title: "Student Expert Certification",
