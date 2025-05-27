@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b468669d.css",
-    "main.js": "/portfolio/static/js/main.16decf28.js",
+    "main.js": "/portfolio/static/js/main.59256fb3.js",
     "static/css/990.c6a7ee28.chunk.css": "/portfolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.cbb80e7c.chunk.js": "/portfolio/static/js/990.cbb80e7c.chunk.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
@@ -11,19 +11,20 @@
     "static/media/companylogo.png": "/portfolio/static/media/companylogo.dfc6515eeca7851dc5a0.png",
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/airbnbLogo.png": "/portfolio/static/media/airbnbLogo.e8497507db673acd3991.png",
-    "static/media/Biz2Credit.png": "/portfolio/static/media/Biz2Credit.d586347c1277be3114a7.png",
+    "static/media/narayana_logo.jpeg": "/portfolio/static/media/narayana_logo.fd898a3bb125b40605b1.jpeg",
     "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/saayaHealthLogo.webp": "/portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/portfolio/index.html",
+    "static/media/biz2x_logo.webp": "/portfolio/static/media/biz2x_logo.a6bf9e5ca5882b35a0c9.webp",
     "main.b468669d.css.map": "/portfolio/static/css/main.b468669d.css.map",
-    "main.16decf28.js.map": "/portfolio/static/js/main.16decf28.js.map",
+    "main.59256fb3.js.map": "/portfolio/static/js/main.59256fb3.js.map",
     "990.c6a7ee28.chunk.css.map": "/portfolio/static/css/990.c6a7ee28.chunk.css.map",
     "990.cbb80e7c.chunk.js.map": "/portfolio/static/js/990.cbb80e7c.chunk.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b468669d.css",
-    "static/js/main.16decf28.js"
+    "static/js/main.59256fb3.js"
   ]
 }
